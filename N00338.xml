@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000412_0000_0FA5B7EC4F874BC8"/>
-            <pb facs="tcp:000412_0001_0FA5B7ED6116E2E0" rendition="simple:additions"/>
+            <pb facs="unknown:000412_0000_0FA5B7EC4F874BC8"/>
+            <pb facs="unknown:000412_0001_0FA5B7ED6116E2E0"
+                rendition="simple:additions"/>
             <head>The General Courts Answer to Joseph Dudley <hi>Esqr.</hi> &amp;c. This was Pas'd by the whole Court, <hi>Nomine non consentiente.</hi>
             </head>
             <opener>
